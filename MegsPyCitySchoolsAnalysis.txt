@@ -1,0 +1,5 @@
+City School Analysis
+
+In evaluating the data analysis performed on the Py City School Data, it is evident Charter Schools have the best and highest Overall Passing percentages appearing in the Top 5 Spots out of 15.  On the other hand, District Schools have the worst Overall Passing percentages and appear in the Bottom 5 Spots.  This would indicate that a student has a 35% higher chance of passing both math and reading assessments if they attend a Charter School.  
+
+Additionally, an increase in spending per student does not show an improvement in score and passing outcomes.  In fact, the opposite is true.  Schools where less than $585 is spent per student (the lowest range in our possible outcomes), have the highest score outcomes.  As spending per student increases, the outcomes decrease in all instances.
